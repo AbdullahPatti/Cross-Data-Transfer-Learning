@@ -1,0 +1,14 @@
+pandas
+numpy
+torch
+matplotlib
+seaborn
+scikit-learn
+transformers
+datasets
+evaluate
+accelerate
+openpyxl
+nltk
+arabic-reshaper
+python-bidi
